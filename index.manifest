@@ -17,7 +17,7 @@ fonts/glyphicons-halflings-regular.ttf
 fonts/glyphicons-halflings-regular.woff
 fonts/glyphicons-halflings-regular.woff2
 js/angular-packages-1.4.10.min.js
-js/aria-ng-4ad184b1d7.min.js
+js/aria-ng-2f3f37bcbd.min.js
 js/bootstrap-3.3.7.min.js
 js/echarts-3.2.2.min.js
 js/jquery-2.2.4.min.js
@@ -31,4 +31,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# hash: 8116e50d3080ed89ffe04739e488cc85b34a561f61c042bba1d751599660ff0f
+# hash: da1b27d74a223f6b306e62876520af24ec87454cf5c5f2b96d6c721ee351e211
