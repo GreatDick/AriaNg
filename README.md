@@ -31,6 +31,7 @@ A Better Frontend for [aria2](https://github.com/aria2/aria2) (a cross-platform 
 ## Installation
 #### Prebuilt release
 Latest Release: https://github.com/mayswind/AriaNg/releases
+
 Latest Daily Build: https://raw.githubusercontent.com/mayswind/AriaNg/gh-pages/downloads/latest_daily_build.zip
 
 #### Building from source
