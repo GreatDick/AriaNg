@@ -5,7 +5,7 @@ css/aria-ng-c637aa8201.min.css
 css/bootstrap-3.3.7.min.css
 css/plugins-9dd2129544.min.css
 js/angular-packages-1.4.10.min.js
-js/aria-ng-b1ed3c51ee.min.js
+js/aria-ng-6d4d36078a.min.js
 js/bootstrap-3.3.7.min.js
 js/echarts-3.3.2.min.js
 js/jquery-2.2.4.min.js
@@ -20,4 +20,4 @@ NETWORK:
 SETTINGS:
 prefer-online
 
-# hash: 461aa16c3bfaf0f6f3587b724dad8e4dda19fe757cdf24c366b1c3f7058a6201
+# hash: 2f80894c0fbf323fed956f82a9d93c06e3f92c49cb89e84bb8c74cab37d3fe68
